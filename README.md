@@ -1,4 +1,4 @@
-# Hi, I’m lug1212 👋
+# Hi, I’m lugman 👋
 
 🎓 **Student, graduating 2027**  
 💻 I love to code, make games, websites, and apps  
