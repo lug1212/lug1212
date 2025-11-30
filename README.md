@@ -3,7 +3,7 @@
 🎓 **Student, graduating 2027**  
 💻 I love to code, make games, websites, and apps  
 ⚽ When I’m not coding, I’m playing soccer or hanging out with friends  
-💡 Aspiring Computer Science Major
+💡 Aspiring Computer Engineering Major
 
 ---
 
@@ -23,10 +23,7 @@
 
 ## 🚀 About Me
 
-I’m passionate about building cool stuff, learning new tech, and having fun while doing it. Whether it’s games, web apps, or just experimenting, I’m always up for a new coding adventure.
-
-> **"We are human, if we are given the prize from the beginning. then what is there to gain."**  
-> — lug1212
+I’m passionate about building cool stuff, learning new tech, and having fun while doing it. Whether it’s games, web apps, or just experimenting, I’m always up for a new coding challange.
 
 ---
 
